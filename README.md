@@ -2,8 +2,12 @@
 Ainda sem créditos, testando código
 
 ## Instruções
-FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
+### Verificando atualizações da VPS
+```bash
+sudo apt -y update && apt -y upgrade
+```
 
+FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 ```bash
 sudo apt install -y git && git clone https://github.com/pujoni/instalodordeploy.git && sudo chmod -R 777 instalodordeploy && cd instalodordeploy&& sudo ./install_primaria
 ```
