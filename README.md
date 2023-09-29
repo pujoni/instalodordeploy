@@ -1,6 +1,7 @@
 ## Créditos
 Ainda sem créditos, testando código
 
+## Instruções
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
